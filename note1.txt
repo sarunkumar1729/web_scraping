@@ -1,0 +1,18 @@
+path
+fundamentals of HTML --> python modules for web scraping ( requests , beautifulsoup4 ) 
+--> scraping a simple website (https://mycartshopping.000webhostapp.com/)
+
+pip install requests
+pip install beautifulsoup4
+
+what is a parser ? ( beautifulsoup4 )
+An HTML parser is a program that reads HTML code and converts it into a structured format, 
+such as a tree-like structure, enabling easy access and manipulation of the document's elements and content, 
+commonly used in web scraping and other web-related tasks.
+
+
+HTML tutorial
+https://www.w3schools.com/html/
+
+wed scraping without code using octoparse
+https://youtu.be/F6CEXNb54TI?si=GhB-3-fKU7aEP3yj
